@@ -7,6 +7,9 @@ on:
       - governance/polls/**
       - '!governance/polls/meta/polls.json'
   workflow_dispatch:
+  schedule:
+    # Run the action every 30 minutes
+    - cron: '*/30 * * * *'
 jobs:
   aggregate_polls:
     runs-on: ubuntu-latest
