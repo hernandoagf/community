@@ -8272,132 +8272,242 @@
     "pollId": 980,
     "title": "Increase the MIP65 (RWA007-A) Debt Ceiling - March 13, 2023",
     "type": "single-choice",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "real-world-assets",
+      "risk-parameter"
+    ]
   },
   {
     "pollId": 977,
     "title": "Short Ratification Poll for Vault Setting Amendment Subproposal (MIP92c5-SP1) - March 13, 2023",
     "type": "single-choice",
-    "tags": []
+    "tags": [
+      "medium-impact",
+      "collateral-onboard",
+      "risk-parameter",
+      "ratification",
+      "mips",
+      "psm"
+    ]
   },
   {
     "pollId": 981,
     "title": "Remove the DC-IAM from MIP65 (RWA007-A) - March 13, 2023",
     "type": "single-choice",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "real-world-assets",
+      "risk-parameter"
+    ]
   },
   {
     "pollId": 979,
     "title": "Return Excess MIP65 Funds to Surplus Buffer - March 13, 2023",
     "type": "single-choice",
-    "tags": []
+    "tags": [
+      "low-impact",
+      "real-world-assets"
+    ]
   },
   {
     "pollId": 972,
     "title": "Budget Ratification Poll for GovAlpha Core Unit DAI Budget 2023-2024 (MIP40c3-SP90) - March 13, 2023",
     "type": "rank-free",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "ratification",
+      "mips",
+      "budget"
+    ]
   },
   {
     "pollId": 973,
     "title": "Budget Ratification Poll for GovAlpha Core Unit MKR Budget Q2 2023 (MIP40c3-SP91) - March 13, 2023",
     "type": "single-choice",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "ratification",
+      "mips",
+      "budget"
+    ]
   },
   {
     "pollId": 974,
     "title": "Ratification Poll for Modify Risk Core Unit Budget (RISK-001) (MIP40c3-SP92) - March 13, 2023",
     "type": "rank-free",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "ratification",
+      "mips",
+      "budget"
+    ]
   },
   {
     "pollId": 975,
     "title": "Budget Ratification Poll for Modifying Strategic Finance Core Unit Budget, SF-001 (MIP40c3-SP93) - March 13, 2023",
     "type": "rank-free",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "ratification",
+      "mips",
+      "budget"
+    ]
   },
   {
     "pollId": 976,
     "title": "Ratification Poll for Modify Data Insights Core Unit Budget (DIN-001) (MIP40c3-SP96) - March 13, 2023",
     "type": "rank-free",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "ratification",
+      "mips",
+      "budget"
+    ]
   },
   {
     "pollId": 960,
     "title": "Ratification Poll for the Constitution MIP Set - March 13, 2023",
     "type": "single-choice",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "real-world-assets",
+      "misc-governance",
+      "collateral-offboard",
+      "misc-funding",
+      "ratification",
+      "mips",
+      "budget",
+      "endgame"
+    ]
   },
   {
     "pollId": 961,
     "title": "Ratification Poll for Onboarding Retro as CES-001 Facilitator (MIP41c4-SP40) - March 13, 2023",
     "type": "single-choice",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "ratification",
+      "mips"
+    ]
   },
   {
     "pollId": 962,
     "title": "Ratification Poll for Phoenix Labs - Spark Lend Launch (SPF) (MIP55c3-SP16) - March 13, 2023",
     "type": "single-choice",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "misc-funding",
+      "ratification",
+      "mips"
+    ]
   },
   {
     "pollId": 963,
     "title": "Ratification Poll for D3M to Spark Lend (MIP116) - March 13, 2023",
     "type": "single-choice",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "ratification",
+      "mips",
+      "d3m"
+    ]
   },
   {
     "pollId": 964,
     "title": "Ratification Poll for Expand Facilitator Definition to Allow Entities (MIP4c2-SP34) - March 13, 2023",
     "type": "single-choice",
-    "tags": []
+    "tags": [
+      "medium-impact",
+      "misc-governance",
+      "ratification",
+      "mips"
+    ]
   },
   {
     "pollId": 965,
     "title": "Ratification Poll for Risk Facilitator Onboarding (RISK-001) (MIP41c4-SP41) - March 13, 2023",
     "type": "single-choice",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "ratification",
+      "mips"
+    ]
   },
   {
     "pollId": 966,
     "title": "Ratification Poll for Protocol Engineering Facilitator Onboarding (MIP41c4-SP42) - March 13, 2023",
     "type": "single-choice",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "ratification",
+      "mips"
+    ]
   },
   {
     "pollId": 967,
     "title": "Ratification Poll for Starknet CU Budget Extension (SNE-001) (MIP14c2-SP4) - March 13, 2023",
     "type": "single-choice",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "misc-funding",
+      "ratification",
+      "mips"
+    ]
   },
   {
     "pollId": 968,
     "title": "Ratification Poll for Requesting Protocol DAI Transfer to fund TechOps CU for March 2023 (MIP14c2-SP5) - March 13, 2023",
     "type": "single-choice",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "misc-funding",
+      "ratification",
+      "mips"
+    ]
   },
   {
     "pollId": 969,
     "title": "Ratification Poll for Modifying Sidestream Auction Services Core Unit Mandate - SAS-001 (MIP39c2-SP39) - March 13, 2023",
     "type": "single-choice",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "ratification",
+      "mips",
+      "core-unit-onboard"
+    ]
   },
   {
     "pollId": 978,
     "title": "Budget Ratification Poll for Modifying Sidestream Auction Services Core Unit Budget (SAS-001) (MIP40c3-SP95) - March 13, 2023",
     "type": "rank-free",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "ratification",
+      "mips",
+      "budget"
+    ]
   },
   {
     "pollId": 970,
     "title": "Budget Ratification Poll for TechOps Core Unit DAI Budget (MIP40c3-SP88) - March 13, 2023",
     "type": "rank-free",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "ratification",
+      "mips",
+      "budget"
+    ]
   },
   {
     "pollId": 971,
     "title": "Ratification Poll for Modify Core Unit Budget (DECO-001) (MIP40c3-SP89) - March 13, 2023",
     "type": "single-choice",
-    "tags": []
+    "tags": [
+      "high-impact",
+      "ratification",
+      "mips",
+      "budget"
+    ]
   }
 ]
