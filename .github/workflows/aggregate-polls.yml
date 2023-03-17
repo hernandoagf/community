@@ -20,7 +20,7 @@ jobs:
           ref: ${{ github.event.pull_request.head.ref }}
       - name: Upload
         id: upload
-        uses: hernandoagf/aggregate-polls-action@v1.1.1
+        uses: hernandoagf/aggregate-polls-action@v1.1.3
         with:
           network: 'mainnet'
           tags-file: 'governance/polls/meta/poll-tags.json'
