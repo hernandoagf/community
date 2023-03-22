@@ -6,6 +6,7 @@ on:
     paths:
       - governance/polls/**
       - '!governance/polls/meta/polls.json'
+      - '!governance/polls/meta/hashed-polls.json'
   workflow_dispatch:
   schedule:
     # Run the action every 30 minutes
