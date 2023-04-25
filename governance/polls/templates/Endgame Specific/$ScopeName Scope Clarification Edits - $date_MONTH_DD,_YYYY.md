@@ -1,6 +1,6 @@
 ---
-title: PPG - Open Market Committee Proposal - $date_MONTH_DD,_YYYY
-summary: $summary
+title: $ScopeName Scope Clarification Edits - $date_MONTH_DD,_YYYY
+summary: Signal your support or opposition to the listed edits to the $ScopeName Scope.
 discussion_link: $discussion_link
 parameters:
     input_format: single-choice
@@ -15,9 +15,9 @@ options:
 start_date: $YYYY-MM-DDT16:00:00
 end_date: $YYYY-MM-DDT16:00:00
 ---
-# PPG - Open Market Committee Proposal - $date_MONTH_DD,_YYYY
+# Poll: $ScopeName Scope Clarification Edits - $date_MONTH_DD,_YYYY
 
-The Arbitration Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Arbitration Facilitators have placed a Governance Poll into the voting system using their powers defined in [MIP113c2.7.1.2](https://mips.makerdao.com/mips/details/MIP113#7-1-pregame-bootstrapping-votes). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -26,18 +26,15 @@ The Arbitration Facilitators have placed a Governance Poll into the voting syste
 
 ## Review
 
-MKR Token Holders may vote in this poll to express support or opposition to the following parameter changes:
+The community can vote in this poll to express support or opposition to the changes in the following Github Pull Request:
+* [Amendment Pull Request]($pull_request_link).
 
-$Changes
-
-Please review the proposal [thread]($discussion_link) to help inform your position before voting.
+Please review the discussion [thread]($discussion_link) to help inform your position before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* These parameter changes will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows.
-* It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
-* If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
+* The proposed changes will be merged into the $ScopeName Scope Framework.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

@@ -1,7 +1,7 @@
 ---
-title: $GenericChange - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to $GenericChange.
-discussion_link: $discussion_link
+title: Ecosystem Scope Clarification Edit - Amend PullUp Ecosystem Actor MKR Allocation - April 24, 2023
+summary: Signal your support or opposition to the listed edit to the Ecosystem Scope.
+discussion_link: https://forum.makerdao.com/t/poll-notices-scope-clarification-edits/20637
 parameters:
     input_format: single-choice
     victory_conditions:
@@ -12,12 +12,12 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2023-04-24T16:00:00
+end_date: 2023-04-27T16:00:00
 ---
-# Poll:$GenericChange - $date_MONTH_DD,_YYYY
+# Poll: Ecosystem Scope Clarification Edit - Amend PullUp Ecosystem Actor MKR Allocation - April 24, 2023
 
-The Arbitration Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Arbitration Facilitators have placed a Governance Poll into the voting system using their powers defined in [MIP113c2.7.1.2](https://mips.makerdao.com/mips/details/MIP113#7-1-pregame-bootstrapping-votes). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, April 24 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -27,17 +27,15 @@ The Arbitration Facilitators have placed a Governance Poll into the voting syste
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes:
-* $GenericChangeA
-* $GenericChangeB
+* Yes - Amend PullUp MKR allocation to 4,000 MKR over two years.
+* No - Keep PullUp MKR allocation at 6,000 MKR over two years.
 
-Please review the discussion [thread]($discussion_link) to help inform your position before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/poll-notices-scope-clarification-edits/20637) to help inform your position before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows.
-* It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
-* If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
+* The proposed changes will be merged into the Ecosystem Scope Framework.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

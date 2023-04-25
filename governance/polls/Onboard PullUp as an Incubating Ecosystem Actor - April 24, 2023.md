@@ -1,7 +1,7 @@
 ---
-title: Onboard $EcosystemActorName as an Incubating Ecosystem Actor - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to onboarding $EcosystemActorName as an Incubating Ecosystem Actor.
-discussion_link: $discussion_link
+title: Onboard PullUp as an Incubating Ecosystem Actor - April 24, 2023
+summary: Signal your support or opposition to onboarding PullUp as an Incubating Ecosystem Actor.
+discussion_link: https://forum.makerdao.com/t/mip102c2-sp2-mip-amendment-subproposals/20016
 parameters:
     input_format: single-choice
     victory_conditions:
@@ -12,12 +12,12 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:30:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2023-04-24T16:00:00
+end_date: 2023-04-27T16:00:00
 ---
-# Poll: Onboard $EcosystemActorName as an Incubating Ecosystem Actor - $date_MONTH_DD,_YYYY
+# Poll: Onboard PullUp as an Incubating Ecosystem Actor - April 24, 2023
 
-The Arbitration Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) has been posted as per [MIP106c2.6.6.2.1A](https://mips.makerdao.com/mips/details/MIP106#6-6-current-incubating-ecosystem-actors) and will be active for three days beginning on $date_DAY,_MONTH_DD at 16:30 UTC.
+The Arbitration Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) has been posted as per [MIP106c2.6.6.2.1A](https://mips.makerdao.com/mips/details/MIP106#6-6-current-incubating-ecosystem-actors) and will be active for three days beginning on Monday, April 24 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -26,13 +26,13 @@ The Arbitration Facilitators have placed a Governance Poll into the voting syste
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following onboarding $EcosystemActorName as an Incubating Ecosystem Actor.
+The community can vote in this poll to express support or opposition to the following onboarding PullUp as an Incubating Ecosystem Actor.
 
 Their relevant details are as follows:
 
 | Ecosystem Actor Name | Budget Allocation | Ecosystem Actor Goal | Team Members |
 |---|---|---|---|
-| $EcosystemActorName | $BudgetAllocation | $EcosystemActorGoal | $TeamMembers |
+| PullUp | 3.3 million DAI over one year<br>6,000 MKR over two years (**see concurrent poll to amend this value**)  | Innovation Engineering: Smart Burn Engine, Sagittarius Engine, SubDAO launch, Maker Chain | Team member information will be kept private, instead detailed deliverable roadmap will be provided. |
 
 ## Outcomes
 
