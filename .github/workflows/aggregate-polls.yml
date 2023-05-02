@@ -7,6 +7,8 @@ on:
       - governance/polls/**
       - '!governance/polls/meta/polls.json'
       - '!governance/polls/meta/hashed-polls.json'
+      - '!governance/polls/meta/polls-goerli.json'
+      - '!governance/polls/meta/hashed-polls-goerli.json'
   workflow_dispatch:
   schedule:
     # Run the action every 30 minutes
